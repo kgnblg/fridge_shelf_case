@@ -1,0 +1,19 @@
+OOP Dizayn:
+
+Bu bölümde, adayın verilen problemi nesne tabanlı programlama ilkelerine uygun olarak soyutlama, nesnelere ayırma ve nesneler arasındaki ilişkileri kurma kabiliyeti dikkate alınacaktır.
+
+Bu sebeple;
+
+1- Herhangi bir framework, library, paket yöneticisi kullanılmamalıdır.
+2- Veritabanı, cache veya persistency katmanı kullanılmamalıdır.
+3- View katmanı ve görsel bir çıktı gerekmemektedir.
+4- Oluşturulan kodun kullanımını gösteren bir test kodu yazılmalıdır.
+5- Çalışma public bir git reposuna yüklenmeli, repoda Gittigidiyor'a ve soruya ilişkin bir bilgi verilmemeli.
+
+Tek çeşit kutu içecek (Örneğin: 33cl kutu kola) alabilen bir meşrubat dolabı dizaynı yapınız.
+
+- Dolap 3 raftan oluşmakta ve her raf 20 adet kutu içecek alabilmektedir.
+- Dolaptan aynı anda sadece 1 adet kutu içecek alınabilir veya koyulabilir.
+- Dolabın kapısı açık ya da kapalı olabilir.
+- Dolap tamamen boş, kısmen dolu veya tamamen dolu durumlarından birinde olabilir.
+- Dolabın boş alan kontrolünü yapabilmesi ve dolduğunda daha fazla kutu eklenememesi gerekmektedir.
